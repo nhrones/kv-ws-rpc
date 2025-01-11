@@ -1,0 +1,7 @@
+{
+   "simple": {
+      "DEV": true,
+      "Port": 80,
+      "Serve": ""
+   }
+}

@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [     
+      {
+         "label": "WS-SERVICE",
+         "type": "deno",
+         "command": "run",
+         "args": ["-A", "--unstable-kv", "service.ts"],
+         "problemMatcher": [
+            "$deno"
+         ]
+      }
+   ]
+}
